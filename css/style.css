@@ -1,0 +1,24 @@
+#container {
+	display: flex;
+	width: auto;
+	height: 140px;
+	padding:20%;
+	justify-content: center;
+	font-size: 1.5em;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 0.8em;
+	background: black;
+	text-align: center;
+}
+.piano {
+	width: 40px;
+	height: 100%;
+	border-radius: 8px;
+	margin: 0.15em;
+	background: white; 
+}
+.text {
+	text-align:center;
+	margin-top: 5.5em;
+	font-size: 1.5em;
+}
